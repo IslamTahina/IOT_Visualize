@@ -1,0 +1,14 @@
+Open a Terminal Window:
+Navigate to the vue-app dashboard directory by running the command cd vue-app/dashboard/
+
+Start the Development Server:
+In the same directory, run yarn dev
+
+Open Another Terminal Window:
+Navigate to the project's root directory by running cd ../../
+
+Start the Main Application:
+Run yarn start 
+
+Open your browser: 
+Navigate to https://localhost:5173/
